@@ -35,22 +35,6 @@ Users can add, search, update, delete, and list courses via a menu-driven interf
 
 ---
 
-## 📂 Repository Structure
-
-course-csv-manager-c/
-│── README.md
-│── .gitignore
-│── LICENSE
-│── src/
-│    └── course-csv-manager-c.c
-│── assets/
-     ├── csv-menu.png
-     ├── csv-add.png
-     ├── csv-update.png
-     └── csv-delete.png
-
----
-
 ## 🛠️ Compilation & Usage
 
 Make sure you have `gcc` installed.  
