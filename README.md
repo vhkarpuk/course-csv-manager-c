@@ -43,3 +43,15 @@ Clone the repository and compile the program:
 ```bash
 gcc course-csv-manager-c.c -o course_manager
 ./course_manager
+
+course-csv-manager-c/
+│── README.md
+│── .gitignore
+│── LICENSE
+│── src/
+│    └── course-csv-manager-c.c
+│── assets/
+     ├── csv-menu.png
+     ├── csv-add.png
+     ├── csv-update.png
+     └── csv-delete.png
