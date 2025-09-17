@@ -27,17 +27,3 @@ Clone the repository and compile the program:
 ```bash
 gcc course-csv-manager-c.c -o course_manager
 ./course_manager
-
-### 📸 Example Output
-
-**Menu**
-![Menu](assets/csv-menu.png)
-
-**Add & Display**
-![Add Course](assets/csv-add.png)
-
-**Update**
-![Update Course](assets/csv-update.png)
-
-**Delete**
-![Delete Course](assets/csv-delete.png)
