@@ -35,14 +35,7 @@ Users can add, search, update, delete, and list courses via a menu-driven interf
 
 ---
 
-## 🛠️ Compilation & Usage
-
-Make sure you have `gcc` installed.  
-Clone the repository and compile the program:
-
-```bash
-gcc course-csv-manager-c.c -o course_manager
-./course_manager
+## 📂 Repository Structure
 
 course-csv-manager-c/
 │── README.md
@@ -55,3 +48,14 @@ course-csv-manager-c/
      ├── csv-add.png
      ├── csv-update.png
      └── csv-delete.png
+
+---
+
+## 🛠️ Compilation & Usage
+
+Make sure you have `gcc` installed.  
+Clone the repository and compile the program:
+
+```bash
+gcc course-csv-manager-c.c -o course_manager
+./course_manager
