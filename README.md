@@ -19,6 +19,8 @@ Users can add, search, update, delete, and list courses via a menu-driven interf
 
 ---
 
+## 📸 Example Output (Screenshots)
+
 **Menu**  
 ![Menu](assets/csv-menu.png)
 
@@ -30,6 +32,8 @@ Users can add, search, update, delete, and list courses via a menu-driven interf
 
 **Delete**  
 ![Delete Course](assets/csv-delete.png)
+
+---
 
 ## 🛠️ Compilation & Usage
 
